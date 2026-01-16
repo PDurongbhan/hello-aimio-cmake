@@ -1,0 +1,23 @@
+# Build artifacts
+build/
+build-*/
+*.obj
+*.exe
+*.lib
+*.pdb
+*.ilk
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
+# VS / Windows noise
+.vs/
+*.user
+*.log
+desktop.ini
+
+#external code
+external/
+
