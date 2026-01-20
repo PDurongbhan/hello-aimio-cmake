@@ -1,7 +1,7 @@
-# Hello AimIO (Windows, CMake, conda)
+# Hello COM_MEAS with AimIO (Windows, CMake, conda)
 
 This repository is a **minimal, working example** of building and linking
-[AimIO](https://github.com/Numerics88/AimIO) on **Windows** using:
+[AimIO](https://github.com/Numerics88/AimIO) to perform joint centre of mass calculation on **Windows** using:
 
 * MSVC (Visual Studio, x64)
 * CMake (>= 3.20)
